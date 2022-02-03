@@ -1,0 +1,162 @@
+.left-head{
+  margin: 0%;
+    width: 40.64%;
+    float: left;
+   padding-left: 120px;
+   height: 800px;
+   background: #edf1f5;   
+}
+
+body{
+  margin: 0%;
+}
+
+.right-head{
+  margin: 0%;
+    width: 50%;
+    height: 800px;
+   float: right;
+   background: #edf1f5;
+   
+}
+
+.logo{
+  width: 300px;
+      height: 450px;
+      margin-left: 5px;
+      font-family: inherit;
+      margin-bottom: 5px;
+      margin-top: 4px;
+}
+
+.letter{
+  font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+  font-size: 28px;
+  font-weight: normal;
+  line-height: 32px;
+  width: 500px;
+  margin-top: -190px;
+  color: #1c1e21;
+  margin-left: 32px;
+}
+
+.loginpage{
+  width: 396px;
+  height: 350px;
+  background: white;
+  margin-left: 90px;
+  margin-top: 130px;
+  padding-top: 15px;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+
+}
+
+.phonenumber{
+  width: 364px;
+  height: 52px;
+  background: white;
+  margin-left: 12px;
+  margin-bottom: 13px;
+  border-radius: 6px;
+ 
+  border: 1px solid #dddfe2;
+  box-shadow: 0 1px 2px rgb(0 0 0 / 10%), 0 1px 2px rgb(0 0 0 / 10%);
+padding-left: 10px;
+}
+
+.password {
+  width: 358px;
+  height: 52px;
+  background: white;
+  margin-left: 12px;
+  margin-bottom: 10px;
+  border-radius: 6px;
+  border: 1px solid #dddfe2;
+  box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 2px 4px rgb(0 0 0 / 10%);
+padding-left: 16px;
+}
+
+.phone{
+ 
+  height: 52px;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 17px;
+  text-shadow: none;
+border: none;
+box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 2px 4px rgb(0 0 0 / 10%);
+  margin-top: 0px;
+  margin-left: 16px;
+  width: 366px;
+box-shadow: none;
+
+border-radius: 6px;
+}
+
+.passbox{
+  height: 52px;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 17px;
+  text-shadow: none;
+border: none;
+  margin-top: 0px;
+ margin-left: 16px;
+  width: 366px;
+box-shadow: none;
+
+border-radius: 6px;
+}
+
+.loginB{
+  
+  width: 372px;
+  height: 52px;
+  background-color: #1877f2;
+  font-size: 20px;
+  border-radius: 6px;
+  border: none;
+color: white;
+margin-left: 16px;
+margin-top: 5px;
+
+}
+
+.text{
+  margin-top: 14px;
+  font-weight: bold;
+}
+
+.link{
+  color: #1877f2;
+  font-size: 14px;
+  font-weight: 500;
+  text-decoration: none;
+ 
+}
+
+.line{
+  
+  margin-top: 20px;
+}
+
+.createbutton{
+  border-radius: 6px;
+  background-color: rgb(10, 194, 10);
+  margin-top: 80px;
+  margin-left: 102px;
+  width: 200px;
+  height: 52px;
+  border: none;
+  font-size: 17px;
+  color: white;
+font-style: inherit;
+font-weight: bolder;
+
+}
+
+.p{
+  font-family: inherit;
+  margin-left: 130px;
+  margin-top: 32px;
+}
+
